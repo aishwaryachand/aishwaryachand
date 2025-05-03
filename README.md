@@ -24,14 +24,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- ⚙️ LLMs from scratch (internals + training)
-- 📉 Advanced ML evaluation metrics
-- 🧪 Applied Statistical Inference
-
----
-
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/aishwaryachand)
