@@ -34,4 +34,4 @@
 
 ## ⚡ Fun Fact
 
-I can read novels all day — and probably still end the day watching AI videos 😄
+
