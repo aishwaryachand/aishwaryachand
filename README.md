@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aishwarya Chand
 
 🎓 Master's in Computer Science @ University at Buffalo (SUNY)  
-🔍 Actively seeking **Data Science**, **ML Engineer**, or **AI Research** roles (Full-time)
+🔍 Actively seeking **Software Engineer** **Data Science**, **ML Engineer**, or **AI Research** roles (Full-time)
 
 ---
 
