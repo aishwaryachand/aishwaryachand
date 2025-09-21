@@ -2,7 +2,7 @@
 
 🎓 Master's in Computer Science @ University at Buffalo (SUNY)  
 🔍 Actively seeking **Software Engineer** **Data Science**, **ML Engineer**, or **AI Research** roles (Full-time)
-🔍 Check Out my Data Science Portfolio here -  [Portfolio-DATA SCIENCE](https://www.datascienceportfol.io/aishwarya7811?preview=True)
+
  
 ---
 
