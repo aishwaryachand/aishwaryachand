@@ -7,7 +7,7 @@
 🎓 Graduated with a **Master’s in Computer Science (AI specialization)** from University at Buffalo (SUNY)  
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aishwaryachand.aishwaryachand)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aishwaryachand)
 
 ---
 
@@ -37,13 +37,13 @@
 
 <p align="center">
   <a href="https://aishwarya-chand.medium.com/building-llms-from-scratch-part-1-concepts-architecture-and-foundations-55db4bccfb3f">
-    <img src="https://img.shields.io/badge/Blog-1-blue?style=for-the-badge" alt="Blog 1"/>
+    <img src="https://img.shields.io/badge/Blog-1-blue?style=for-the-badge" alt="LLM From Scratch"/>
   </a>
-  <a href="https://aishwaryachand.io/blog2">
-    <img src="https://img.shields.io/badge/Blog-2-green?style=for-the-badge" alt="Blog 2"/>
+  <a href="https://aishwarya-chand.medium.com/">
+    <img src="https://img.shields.io/badge/Blog-2-green?style=for-the-badge" alt="Navigating Grad Life"/>
   </a>
-  <a href="https://aishwaryachand.io/blog3">
-    <img src="https://img.shields.io/badge/Blog-3-purple?style=for-the-badge" alt="Blog 3"/>
+  <a href="https://aishwarya-chand.medium.com/difference-fit-transform-and-fit-transform-method-in-scikit-learn-b0a4efcab804">
+    <img src="https://img.shields.io/badge/Blog-3-purple?style=for-the-badge" alt="ML Fundamentals"/>
   </a>
 </p>  
 
