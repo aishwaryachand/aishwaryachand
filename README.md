@@ -7,9 +7,7 @@
 🎓 Graduated with a **Master’s in Computer Science (AI specialization)** from University at Buffalo (SUNY)  
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aishwaryachand)
 
----
 
 ## 🚀 About Me  
 
@@ -30,8 +28,6 @@
 - **MLOps/Dev:** FastAPI, Docker, MLflow, Git, Streamlit, CI/CD  
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=aishwaryachand&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ## ✍️ Blogs  
 
@@ -61,3 +57,25 @@
 ## ⚡ Fun Fact  
 
 I love **teaching AI concepts** as much as building them — from mentoring 200+ students as a TA to running AI workshops, I enjoy breaking down cutting-edge tech into simple, practical insights.  
+
+---
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
