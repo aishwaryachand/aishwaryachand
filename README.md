@@ -30,7 +30,8 @@
 - **MLOps/Dev:** FastAPI, Docker, MLflow, Git, Streamlit, CI/CD  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryachand&layout=compact&theme=radical)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=aishwaryachand&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ## ✍️ Blogs  
 
