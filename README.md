@@ -1,3 +1,5 @@
+
+![Banner](assets/github-header-banner.png)
 # Hi there 👋 I'm Aishwarya Chand
 
 🎓 Master's in Computer Science @ University at Buffalo (SUNY)  
